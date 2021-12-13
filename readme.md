@@ -1,10 +1,10 @@
 # Citi_Bike_NYC_08/19
 
-##Overview
+## Overview
 
 - The purpose of this analysis was to look at Bike trip data in New York City in August of 2019, and to see what kind of summarizations we could make from this info.
 
-##Results
+## Results
 
 - Checkout Times by Users shows that most trips for all users are between 0 to 10 minutes.
 - Checkout Times by Gender shows that most male and female users have a trip duration between 0 to 20 minutes, and for unknown genders, the user have a trip time between 0 to 30 minutes.
